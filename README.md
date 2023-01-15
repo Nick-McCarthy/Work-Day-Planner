@@ -3,7 +3,7 @@ Work day planner that stores notes in localStorage and marks hour as past, prese
 
 date present at top of page
 <br>
-![](images/current-date.png
+![](images/current-date.png)
 
 hours change color depending on time
 <br>
