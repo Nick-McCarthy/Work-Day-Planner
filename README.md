@@ -2,7 +2,7 @@
 Work day planner that stores notes in localStorage and marks hour as past, present, or future
 
 ## Description
-
+sets user input to local storage and sets the background color to each div based on its comparison to the current time.
 
 ## Installation
 N/A
@@ -19,12 +19,12 @@ Please refer to the LICENSE in the repo.
 
 date present at top of page
 <br>
-![](images/current-date.png)
+![](images/current-date.png = x250)
 
 hours change color depending on time
 <br>
-![](images/hours-change-color.png)
+![](images/hours-change-color.png = x250)
 
 user input persists through page refresh
 <br>
-![](images/persisting-user-data.png)
+![](images/persisting-user-data.png = x250)
