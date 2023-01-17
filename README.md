@@ -19,12 +19,12 @@ Please refer to the LICENSE in the repo.
 
 date present at top of page
 <br>
-![](images/current-date.png = x250)
+![](images/current-date.png =x250)
 
 hours change color depending on time
 <br>
-![](images/hours-change-color.png = x250)
+![](images/hours-change-color.png =x250)
 
 user input persists through page refresh
 <br>
-![](images/persisting-user-data.png = x250)
+![](images/persisting-user-data.png =x250)
